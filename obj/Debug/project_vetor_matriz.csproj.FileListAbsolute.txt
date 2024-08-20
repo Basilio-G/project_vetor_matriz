@@ -1,0 +1,12 @@
+C:\Users\Aluno\source\repos\project_vetor_matriz\bin\Debug\project_vetor_matriz.exe.config
+C:\Users\Aluno\source\repos\project_vetor_matriz\bin\Debug\project_vetor_matriz.exe
+C:\Users\Aluno\source\repos\project_vetor_matriz\bin\Debug\project_vetor_matriz.pdb
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.Properties.Resources.resources
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.exe
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.pdb
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.array_lista.resources
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.array_soma.resources
+C:\Users\Aluno\source\repos\project_vetor_matriz\obj\Debug\project_vetor_matriz.matriz_lista.resources
